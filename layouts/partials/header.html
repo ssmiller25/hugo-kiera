@@ -36,5 +36,8 @@
     </header>
 
     {{ partial "nav" . }}
+    {{ if .Site.gitlabcorner }}
+        {{ partial "gitlab-corner" . }}
+    {{ end }}
 
     <main>
