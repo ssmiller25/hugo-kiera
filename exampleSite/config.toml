@@ -22,5 +22,9 @@ pygmentsCodeFences = true
 [params]
     tagline = "A Hugo theme for creative and technical writing"
     googleAnalyticsUserID = ""
+    # See https://gitlab-corners.bryce.io/ for details and adjustments
+    gitlabcorner = ""
+    # See http://tholman.com/github-corners/ for details and adjustments
+    githubcorner = ""
 
 
