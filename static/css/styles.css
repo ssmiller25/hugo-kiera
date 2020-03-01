@@ -212,9 +212,8 @@ time {
 
 a {
   color: #666666;
-  /*  Allow underlines to come through A links
-  text-decoration: none;
-  */
+  /* Make hyperlinks a little more distinquishable */ 
+  text-decoration: lightslategrey;
 }
 
 .image, figure img, img {
