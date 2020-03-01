@@ -212,7 +212,9 @@ time {
 
 a {
   color: #666666;
+  /*  Allow underlines to come through A links
   text-decoration: none;
+  */
 }
 
 .image, figure img, img {
