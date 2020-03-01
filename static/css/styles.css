@@ -211,9 +211,9 @@ time {
 }
 
 a {
-  color: #666666;
   /* Make hyperlinks a little more distinquishable */ 
-  text-decoration: lightslategrey;
+  color: #8989ab;
+  text-decoration: #8989ab;
 }
 
 .image, figure img, img {
