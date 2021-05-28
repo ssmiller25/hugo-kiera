@@ -6,7 +6,7 @@ It was originally developed by [b. avianto](https://github.com/avianto/hugo-kier
 
 ## Archived
 
-This was a personal branch maintained by [myself](https://github.com/ssmiller25) and is no longer in use on my [main site](https://www.r15cookie.com/).  Please use the latest version by [funkydan2](https://github.com/funkydan2/hugo-kiera)
+This was a personal branch maintained by [myself](https://github.com/ssmiller25) and is no longer in use on my [main site](https://www.r15cookie.com/).  Please use the latest version by [funkydan2](https://github.com/funkydan2/hugo-kiera).
 
 ## Main Features
 
